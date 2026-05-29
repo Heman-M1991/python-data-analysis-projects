@@ -30,5 +30,7 @@ Applications of regression analysis and introductory machine learning techniques
 Heman Mostafazadeh
 
 MSc Business and Economics
+
 Major: Data Science and Computational Economics
+
 University of Basel
