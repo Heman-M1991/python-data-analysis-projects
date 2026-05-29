@@ -15,7 +15,7 @@ The notebooks demonstrate practical experience in:
 
 ### Exercise 02
 
-Introduction to data manipulation and analysis using Python.
+Introduction to data manipulation, cleaning, and exploratory data analysis using Python.
 
 ### Exercise 05
 
@@ -23,7 +23,7 @@ Statistical analysis and data processing techniques.
 
 ### Exercise 09
 
-Applications of regression and introductory machine learning methods.
+Applications of regression analysis and introductory machine learning techniques.
 
 ## Author
 
